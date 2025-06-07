@@ -78,9 +78,9 @@ Sigue estos pasos para poner en marcha la API en un entorno local:
 
 Desde la Terminal (dentro de la carpeta `ApiContrats`):
 
-        dotnet run
+dotnet run
 
-        La API se iniciará y te mostrará la URL en la que está escuchando (ej: `https://localhost:70XX`).
+La API se iniciará y te mostrará la URL en la que está escuchando (ej: `https://localhost:70XX`).
 
 Desde Visual Studio:
         Abre la solución (`ApiContrats.sln`) o la carpeta del proyecto `ApiContrats` en tu IDE y presiona `F5` o el botón "Iniciar Depuración".
@@ -92,8 +92,8 @@ Desde Visual Studio:
 
 Endpoints Principales
 
-GET /api/contrats`: Obtiene una lista de todos los contratos existentes.
-POST /api/contrats`: Crea un nuevo contrato.
+GET /api/contrats: Obtiene una lista de todos los contratos existentes.
+POST /api/contrats: Crea un nuevo contrato.
 Cuerpo de la solicitud (JSON):
         {
           "validity": "2024-06-07T00:00:00",
