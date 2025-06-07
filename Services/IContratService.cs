@@ -1,7 +1,5 @@
 ﻿using ApiContrats.Models;
-using ApiContrats.DTOs; // Asegúrate de importar esto
-using System.Collections.Generic;
-using System.Threading.Tasks;
+using ApiContrats.DTOs;
 
 namespace ApiContrats.Services
 {
