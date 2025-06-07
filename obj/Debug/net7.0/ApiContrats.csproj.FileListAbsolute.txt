@@ -1,0 +1,7 @@
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.csproj.AssemblyReference.cache
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.AssemblyInfoInputs.cache
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.AssemblyInfo.cs
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.csproj.CoreCompileInputs.cache
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caval\ApiContracts\obj\Debug\net7.0\ApiContrats.MvcApplicationPartsAssemblyInfo.cache
